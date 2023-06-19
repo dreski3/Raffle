@@ -52,3 +52,5 @@ addConsumer:
 fundSubscription:
 	@forge script script/Interactions.s.sol:FundSubscription $(NETWORK_ARGS)
 
+# 0x5B51eA597C0B209a2966b9446A09531fF63C8811
+# 0x2C07AA5AE5fA439bB3D7e7785aA34C94f0cB85E8
